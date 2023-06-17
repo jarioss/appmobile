@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+        En Concepción tenemos los mejores y cómodos hoteles cabañas desde los
+        $50000 COP por noche, habitaciones VIP que te permitaran
+        disfrutar de la paz y ambiente de este hermoso pueblo.
+    </string>
+
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Portugues</string>
+    <string name="opcion4">Acerca de</string>
+
+</resources>

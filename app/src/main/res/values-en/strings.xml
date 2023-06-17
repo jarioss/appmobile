@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+        In Concepción we have the best and comfortable cabin hotels from the
+        $50,000 COP per night, VIP rooms that will allow you
+        enjoy the peace and atmosphere of this beautiful town.
+    </string>
+    <string name="opcion1">Spanish</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Portuguese</string>
+    <string name="opcion4">About Us</string>
+</resources>
