@@ -9,10 +9,4 @@
     android:background="@drawable/editar1"
     tools:context=".MainActivity">
 
-
-
-
-
-
-
 </android.support.constraint.ConstraintLayout>

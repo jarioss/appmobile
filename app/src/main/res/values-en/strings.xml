@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">VengaAMiPueblo2</string>
-
-    <string name="descripcionhoteles">
-        In Concepción we have the best and comfortable cabin hotels from the
-        $50,000 COP per night, VIP rooms that will allow you
-        enjoy the peace and atmosphere of this beautiful town.
-    </string>
+    <string name="titulohotel">Hotels</string>
+    <string name="descripcionhoteles">In Concepción we have the best and comfortable cabin hotels from the $50,000 COP per night, VIP rooms that will allow you enjoy the peace and atmosphere of this beautiful town.</string>
     <string name="opcion1">Spanish</string>
     <string name="opcion2">English</string>
-    <string name="opcion3">Portuguese</string>
+    <string name="opcion3">Italian</string>
     <string name="opcion4">About Us</string>
+    <string name="tituloresta">Restaurants</string>
+    <string name="descresta">We have a variety of exquisite dishes for you to delight your palate, also on warm afternoons you can eat a delicious ice cream and have some ice cream, if you are of legal age, we have recreational spaces so you can relax with your family and share our most various feasts.</string>
+    <string name="titulositios">Tourist Places</string>
+    <string name="descsitios">We have plenty of destinations so you can walk, see, and swim at whatever it takes and best of all they are totally free. Keep in mind that these spaces are for each and every one of us, which is why we invite you to take care of them. Leave places as you found them.</string>
 </resources>
